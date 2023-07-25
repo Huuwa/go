@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	
-	"github.com/Huuwa/go/greetings"
+	"github.com/huuwa/go/greetings"
 )
 
 func main(){
