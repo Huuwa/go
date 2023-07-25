@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-		"example,com/greetings"
+	
+	"github.com/Huuwa/go/greetings"
 )
 
 func main(){
